@@ -7,4 +7,4 @@ This project consists on a web where you can create your own tier list of the th
 Developed with HTML, CSS and JavaScript, using Drag and Drop.
 
 <a href="https://github.com/HananGK/TierCraft" target="_blank">Code</a>
-<a href="https://hanangk.github.io/TierCraft/" target="_blank">Code</a>
+<a href="https://hanangk.github.io/TierCraft/" target="_blank">Link</a>
